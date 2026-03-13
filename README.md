@@ -1,14 +1,14 @@
 # Dairy Cow Health Event Detection Using Multimodal Data
 
-**Author** Angelo De Castro
+**Author**: Angelo De Castro
 
-**Program** PhD in Animal Sciences, University of Florida
+**Program**: PhD in Animal Sciences, University of Florida
 
-**Course** ABE 6933 Special Topics in Agricultural and Biological Engineering
+**Course**: ABE 6933 Special Topics in Agricultural and Biological Engineering
 
-**Assignment** Activity 5 Managing Data with Git
+**Assignment**: Activity 5 Managing Data with Git
 
-**Research Focus** Machine Learning, Deep Learning, Precision Livestock Farming, Computer Vision
+**Research Focus**: Machine Learning, Deep Learning, Precision Livestock Farming, Computer Vision
 
 ## Project Overview
 

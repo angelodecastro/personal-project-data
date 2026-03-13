@@ -17,12 +17,15 @@ This repository contains sample multimodal data for building machine learning mo
 ## Data Modalities
 
 **Activity Sensor Data** (`activity_sensor_data.csv`)
+
 Accelerometer-based behavioral data collected from ear or leg tags. Includes step counts, lying and standing time, rumination duration, and raw acceleration values along three axes.
 
 **Milk Yield and Composition Data** (`milk_yield_composition.csv`)
+
 Milking records collected at each milking session. Includes milk yield, fat and protein percentages, somatic cell count, and electrical conductivity. These indicators are commonly used to monitor udder health and reproductive status.
 
 **Body Condition Score Data** (`body_condition_scores.csv`)
+
 Morphometric measurements and body condition scores assessed visually or through image-based methods. Includes body weight, hip width, rump angle, and reference image filenames from overhead cameras.
 
 ## Event Labels
